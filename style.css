@@ -104,6 +104,8 @@ span {
 }
 .go:hover{background-color: rgb(137, 224, 224); cursor: pointer;}
 .result{font-size: 30px;}
+.play-again{height: 50px; width:100px; background-color: azure;border-radius: 10px;}
+.play-again:hover{background-color: rgb(137, 224, 224); cursor: pointer;}
 @media screen and (max-width:750px) {
    
     img{height:60px;width:60px;}
@@ -117,6 +119,7 @@ span {
     img{height:30px; width: 30px;}
     .go{width:60px;}
     .result{font-size:10px;}
+    .play-again{width:60px}
     
 }
 @media screen and (max-width:300px) {
@@ -125,5 +128,6 @@ span {
     .computer{font-size: 0.5rem;}
      img{height:15px; width: 15px;}
     .go{width:40px;}
+    .play-again{width: 50px;}
     
 }
