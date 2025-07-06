@@ -14,3 +14,5 @@ Just the beginning — and I'm excited for what comes next!
 <p align="center">
   Small steps, real progress — and this is just one of many more to come 🚀
 </p>
+<p><a href="https://stonepaperscissorgame-psi.vercel.app/" target="_blank">Click here to view the project</a>
+</p>
